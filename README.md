@@ -1,5 +1,7 @@
 # PHP Version Checker
 
+for abolfazl khamari in zahesan 
+
 Get a version-based PHP2Shell warning from a website's PHP headers or local installation.
 
 To install both skills, ask Codex:
